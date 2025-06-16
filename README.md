@@ -25,26 +25,12 @@ You can view my complete resume [here](https://github.com/siddaramaiah-j-v/sidda
 
 - **Email:** [siddugowda1412@gmail.com](mailto:siddugowda1412@gmail.com)
 - **LinkedIn:** [Siddaramaiah J V](https://www.linkedin.com/in/siddaramaiah-j-v-65087b205)
-- 
+  
 ---
 
 ## 📈 Projects
 
 - All of my Projects are available [here](https://github.com/siddaramaiah-j-v/)
-
----
-## 🛠️ Skills
-
-- **Programming Languages:**
-  - Python, JavaScript,SQL
-- **Web Development:**
-  - HTML, CSS, JavaScript, Django.
-- **Database:**
-  - MySQL.
-- **Version Control:**
-  - Git & GitHub
-- **Others:**
-  - Data Structures & Algorithms, Operating Systems, OOPs Concepts,RESTful Api's develeopment,Postman Testing.
 
 ---
 
