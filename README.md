@@ -15,6 +15,24 @@ I'm a passionate software engineer and technology enthusiast with a strong found
 
 ---
 
+## 📃 Resume
+
+You can view my complete resume [here](https://github.com/siddaramaiah-j-v/siddaramaiah-j-v.github.io/blob/main/siddaramaiah_J_V.pdf).
+
+---
+
+## 📫 Let's Connect
+
+- **Email:** [siddugowda1412@gmail.com](mailto:siddugowda1412@gmail.com)
+- **LinkedIn:** [Siddaramaiah J V](https://www.linkedin.com/in/siddaramaiah-j-v-65087b205)
+- 
+---
+
+## 📈 Projects
+
+- All of my Projects are available [here](https://github.com/siddaramaiah-j-v/)
+
+---
 ## 🛠️ Skills
 
 - **Programming Languages:**
@@ -27,26 +45,6 @@ I'm a passionate software engineer and technology enthusiast with a strong found
   - Git & GitHub
 - **Others:**
   - Data Structures & Algorithms, Operating Systems, OOPs Concepts,RESTful Api's develeopment,Postman Testing.
-
----
-
-## 📈 Projects
-
-- All of my Projects are available [here](https://github.com/siddaramaiah-j-v/)
-
----
-
-## 📃 Resume
-
-You can view my complete resume [here](https://github.com/siddaramaiah-j-v/siddaramaiah-j-v.github.io/blob/main/siddaramaiah_J_V.pdf).
-
----
-
-## 📫 Let's Connect
-
-- **Email:** [siddugowda1412@gmail.com](mailto:siddugowda1412@gmail.com)
-- **LinkedIn:** [Siddaramaiah J V](https://www.linkedin.com/in/siddaramaiah-j-v-65087b205)
-- **GitHub:** [siddaramaiah-j-v](https://github.com/siddaramaiah-j-v)
 
 ---
 
