@@ -32,7 +32,7 @@ I'm a passionate software engineer and technology enthusiast with a strong found
 
 ## 📈 Projects
 
-- All of my Projects are available at (https://github.com/siddaramaiah-j-v/)
+- All of my Projects are available [here](https://github.com/siddaramaiah-j-v/)
 
 ---
 
