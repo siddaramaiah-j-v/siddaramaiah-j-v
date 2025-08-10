@@ -17,7 +17,7 @@ I'm a passionate software engineer and technology enthusiast with a strong found
 
 ## 📃 Resume
 
-You can view my complete resume [here](https://github.com/siddaramaiah-j-v/siddaramaiah-j-v.github.io/blob/main/siddaramaiah_J_V.pdf).
+You can view my complete resume [here](https://github.com/siddaramaiah-j-v/siddaramaiah-j-v.github.io/blob/main/siddaramaiah.pdf).
 
 ---
 
